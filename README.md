@@ -1,1 +1,2 @@
 # JsonValidator
+This repository contains a Python implementation of a JSON validator utility. The main.py script demonstrates how to use the JsonValidator class to validate JSON data against a specified schema. The validation includes checks for required fields, at least one of a set of fields, either one of two fields, mutually exclusive fields, and field values within a specified set. The json_validator.py module defines the JsonValidator class, which encapsulates the validation logic with reusable methods for specific checks.
